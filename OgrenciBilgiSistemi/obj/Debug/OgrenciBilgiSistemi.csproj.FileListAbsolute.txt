@@ -1,0 +1,398 @@
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Data.v20.1.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\EntityFramework.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\EntityFramework.SqlServer.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Data.v20.1.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\EntityFramework.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\EntityFramework.SqlServer.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csprojAssemblyReference.cache
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Anaform.resources
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Ogrenciler.resources
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe.licenses
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CopyComplete
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Ogretmenler.resources
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Bolumler.resources
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Dersler.resources
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Notlar.resources
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Hakkimizda.resources
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.DersAtama.resources
+D:\MUCO ÖZEL\C#\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.BolumAtama.resources
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\EntityFramework.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\EntityFramework.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.AssemblyReference.cache
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Anaform.resources
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.BolumAtama.resources
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Bolumler.resources
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.DersAtama.resources
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Dersler.resources
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Hakkimizda.resources
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Notlar.resources
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Ogrenciler.resources
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Ogretmenler.resources
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe.licenses
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CopyComplete
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\beray\Desktop\SISTEM ANALIZI\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\EntityFramework.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\EntityFramework.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.AssemblyReference.cache
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Anaform.resources
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.BolumAtama.resources
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Bolumler.resources
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.DersAtama.resources
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Dersler.resources
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Hakkimizda.resources
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Notlar.resources
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Ogrenciler.resources
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Ogretmenler.resources
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe.licenses
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CopyComplete
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\beray\Desktop\Gorsel Programlama\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe.config
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.exe
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\OgrenciBilgiSistemi.pdb
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\EntityFramework.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.Office.v20.1.Core.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.Data.v20.1.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.Utils.v20.1.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraBars.v20.1.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\EntityFramework.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\DevExpress.Office.v20.1.Core.xml
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.AssemblyReference.cache
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Anaform.resources
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.BolumAtama.resources
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Bolumler.resources
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.DersAtama.resources
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Dersler.resources
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Hakkimizda.resources
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Notlar.resources
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Ogrenciler.resources
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Ogretmenler.resources
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.Properties.Resources.resources
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.GenerateResource.cache
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe.licenses
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CoreCompileInputs.cache
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.csproj.CopyComplete
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.exe
+C:\Users\beray\OneDrive\Masaüstü\ödevler\Gorsel Programlama Ödevi Ezgi.Beray\OgrenciBilgiSistemi\obj\Debug\OgrenciBilgiSistemi.pdb

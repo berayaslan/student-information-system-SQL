@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="56ef66e3ba704d64ae2e1e0b604395c4" Name="Diagram1">
+        <EntityTypeShape EntityType="DbOgrenciBilgiSistemiModel.TBL_BOLUMLER" Width="1.5" PointX="0.75" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbOgrenciBilgiSistemiModel.TBL_DERSLER" Width="1.5" PointX="6" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbOgrenciBilgiSistemiModel.TBL_NOTLAR" Width="1.5" PointX="5.125" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbOgrenciBilgiSistemiModel.TBL_OGRENCI" Width="1.5" PointX="0.5" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbOgrenciBilgiSistemiModel.TBL_OGRENCIBOLUMLISTESI" Width="1.5" PointX="3" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbOgrenciBilgiSistemiModel.TBL_OGRENCIDERSLISTESI" Width="1.5" PointX="7.375" PointY="2.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="DbOgrenciBilgiSistemiModel.TBL_OGRETMENLER" Width="1.5" PointX="2.875" PointY="2.875" IsExpanded="true" />
+        <AssociationConnector Association="DbOgrenciBilgiSistemiModel.FK_TBL_NOTLAR_TBL_BOLUMLER" ManuallyRouted="false" />
+        <AssociationConnector Association="DbOgrenciBilgiSistemiModel.FK_TBL_OGRENCIBOLUMLISTESI_TBL_BOLUMLER" ManuallyRouted="false" />
+        <AssociationConnector Association="DbOgrenciBilgiSistemiModel.FK_TBL_OGRENCIDERSLISTESI_TBL_BOLUMLER" ManuallyRouted="false" />
+        <AssociationConnector Association="DbOgrenciBilgiSistemiModel.FK_TBL_OGRETMENLER_TBL_BOLUMLER" ManuallyRouted="false" />
+        <AssociationConnector Association="DbOgrenciBilgiSistemiModel.FK_TBL_DERSLER_TBL_OGRETMENLER" ManuallyRouted="false" />
+        <AssociationConnector Association="DbOgrenciBilgiSistemiModel.FK_TBL_NOTLAR_TBL_DERSLER" ManuallyRouted="false" />
+        <AssociationConnector Association="DbOgrenciBilgiSistemiModel.FK_TBL_OGRENCIDERSLISTESI_TBL_DERSLER" ManuallyRouted="false" />
+        <AssociationConnector Association="DbOgrenciBilgiSistemiModel.FK_TBL_NOTLAR_TBL_OGRENCI" ManuallyRouted="false" />
+        <AssociationConnector Association="DbOgrenciBilgiSistemiModel.FK_TBL_OGRENCIBOLUMLISTESI_TBL_OGRENCI" ManuallyRouted="false" />
+        <AssociationConnector Association="DbOgrenciBilgiSistemiModel.FK_TBL_OGRENCIDERSLISTESI_TBL_OGRENCI" ManuallyRouted="false" />
+        <AssociationConnector Association="DbOgrenciBilgiSistemiModel.FK_TBL_OGRENCIDERSLISTESI_TBL_OGRETMENLER" ManuallyRouted="false" />
+        <AssociationConnector Association="DbOgrenciBilgiSistemiModel.FK_TBL_DERSLER_TBL_BOLUMLER" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

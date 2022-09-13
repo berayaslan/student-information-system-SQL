@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DbOgrenciBilgiSistemiModelStoreContainer" CdmEntityContainer="DbOgrenciBilgiSistemiEntities">
+    <EntitySetMapping Name="TBL_BOLUMLER">
+      <EntityTypeMapping TypeName="DbOgrenciBilgiSistemiModel.TBL_BOLUMLER">
+        <MappingFragment StoreEntitySet="TBL_BOLUMLER">
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="BOLUM" ColumnName="BOLUM" />
+          <ScalarProperty Name="BOLUMKODU" ColumnName="BOLUMKODU" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_DERSLER">
+      <EntityTypeMapping TypeName="DbOgrenciBilgiSistemiModel.TBL_DERSLER">
+        <MappingFragment StoreEntitySet="TBL_DERSLER">
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="DERS" ColumnName="DERS" />
+          <ScalarProperty Name="DERSKODU" ColumnName="DERSKODU" />
+          <ScalarProperty Name="BOLUM" ColumnName="BOLUM" />
+          <ScalarProperty Name="OGRETMEN" ColumnName="OGRETMEN" />
+          <ScalarProperty Name="KREDI" ColumnName="KREDI" />
+          <ScalarProperty Name="DERSLIK" ColumnName="DERSLIK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_NOTLAR">
+      <EntityTypeMapping TypeName="DbOgrenciBilgiSistemiModel.TBL_NOTLAR">
+        <MappingFragment StoreEntitySet="TBL_NOTLAR">
+          <ScalarProperty Name="OGRENCINO" ColumnName="OGRENCINO" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="OGRENCI" ColumnName="OGRENCI" />
+          <ScalarProperty Name="BOLUM" ColumnName="BOLUM" />
+          <ScalarProperty Name="DERS" ColumnName="DERS" />
+          <ScalarProperty Name="VIZE" ColumnName="VIZE" />
+          <ScalarProperty Name="FINAL" ColumnName="FINAL" />
+          <ScalarProperty Name="ORTALAMA" ColumnName="ORTALAMA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_OGRENCI">
+      <EntityTypeMapping TypeName="DbOgrenciBilgiSistemiModel.TBL_OGRENCI">
+        <MappingFragment StoreEntitySet="TBL_OGRENCI">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="AD" ColumnName="AD" />
+          <ScalarProperty Name="SOYAD" ColumnName="SOYAD" />
+          <ScalarProperty Name="TC" ColumnName="TC" />
+          <ScalarProperty Name="TELEFON" ColumnName="TELEFON" />
+          <ScalarProperty Name="OGRENCIDURUM" ColumnName="OGRENCIDURUM" />
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_OGRENCIBOLUMLISTESI">
+      <EntityTypeMapping TypeName="DbOgrenciBilgiSistemiModel.TBL_OGRENCIBOLUMLISTESI">
+        <MappingFragment StoreEntitySet="TBL_OGRENCIBOLUMLISTESI">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="OGRENCI" ColumnName="OGRENCI" />
+          <ScalarProperty Name="BOLUM" ColumnName="BOLUM" />
+          <ScalarProperty Name="OGRENCINO" ColumnName="OGRENCINO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_OGRENCIDERSLISTESI">
+      <EntityTypeMapping TypeName="DbOgrenciBilgiSistemiModel.TBL_OGRENCIDERSLISTESI">
+        <MappingFragment StoreEntitySet="TBL_OGRENCIDERSLISTESI">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="OGRENCI" ColumnName="OGRENCI" />
+          <ScalarProperty Name="OGRETMEN" ColumnName="OGRETMEN" />
+          <ScalarProperty Name="BOLUM" ColumnName="BOLUM" />
+          <ScalarProperty Name="DERS" ColumnName="DERS" />
+          <ScalarProperty Name="KREDİ" ColumnName="KREDİ" />
+          <ScalarProperty Name="DERSLIK" ColumnName="DERSLIK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBL_OGRETMENLER">
+      <EntityTypeMapping TypeName="DbOgrenciBilgiSistemiModel.TBL_OGRETMENLER">
+        <MappingFragment StoreEntitySet="TBL_OGRETMENLER">
+          <ScalarProperty Name="DURUM" ColumnName="DURUM" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="AD" ColumnName="AD" />
+          <ScalarProperty Name="SOYAD" ColumnName="SOYAD" />
+          <ScalarProperty Name="BOLUM" ColumnName="BOLUM" />
+          <ScalarProperty Name="SICILNO" ColumnName="SICILNO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
